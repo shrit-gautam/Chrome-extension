@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 10%;
+    min-width: 400px;
+}
+
+#input-el{
+    padding: 10px;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 4px;
+}
+
+button{
+    background-color: cadetblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+}
+
+#delete-btn{
+    background-color: blueviolet;
+    color: white
+}
+
+#tab{
+    background-color: green;
+    color: white
+}
+
+ul {
+    margin-top: 20px;
+    list-style: none;
+    padding-left: 0;
+}
+
+li {
+    margin-top: 5px;
+}
